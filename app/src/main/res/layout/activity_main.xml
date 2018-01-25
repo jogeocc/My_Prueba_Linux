@@ -22,7 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:layout_editor_absoluteX="168dp"
-        tools:layout_editor_absoluteY="76dp" />
+        tools:layout_editor_absoluteY="153dp" />
 
     <ProgressBar
         android:id="@+id/progressBar2"
@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:max="100"
         android:progress="40"
-        tools:layout_editor_absoluteX="168dp"
-        tools:layout_editor_absoluteY="311dp" />
+        tools:layout_editor_absoluteX="194dp"
+        tools:layout_editor_absoluteY="319dp" />
 
 </android.support.constraint.ConstraintLayout>
